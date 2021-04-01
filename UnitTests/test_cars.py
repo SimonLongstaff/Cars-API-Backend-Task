@@ -1,7 +1,7 @@
 import json
 import unittest
 
-import app
+from application import app
 
 BASE_URL = "http://127.0.0.1:5000"
 
