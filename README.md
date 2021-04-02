@@ -10,11 +10,11 @@ Requires
 - flask-marshmallow
 
 If not installed they can be installed with 
-`Pip install Flask`
-`Pip install Marshmallow`
-`Pip install SQL-Alchemy`
-`Pip install flask-Sqlalchemy`
-`Pip install flask-marshmallow`
+`Pip install -r requirements.txt`
+
 
 Run with
 `Python3 app.py`
+
+Run the unittests with
+`Python3 -m unittest UnitTests/test_cars.py
