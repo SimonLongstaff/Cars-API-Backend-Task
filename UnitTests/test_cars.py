@@ -1,10 +1,9 @@
 import json
 import unittest
 
-from application import app
+import app
 
 BASE_URL = "http://127.0.0.1:5000"
-
 
 class TestFlaskApi(unittest.TestCase) :
 

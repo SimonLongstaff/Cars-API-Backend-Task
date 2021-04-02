@@ -18,3 +18,4 @@ def create_database() :
 
 
 from application import routes
+
